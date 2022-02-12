@@ -9,7 +9,6 @@ C:\Users\m.rabbi\source\repos\DevCard\DevCard_Project\DevCard_MVC\bin\Debug\net5
 C:\Users\m.rabbi\source\repos\DevCard\DevCard_Project\DevCard_MVC\bin\Debug\net5.0\DevCard_MVC.pdb
 C:\Users\m.rabbi\source\repos\DevCard\DevCard_Project\DevCard_MVC\bin\Debug\net5.0\DevCard_MVC.Views.dll
 C:\Users\m.rabbi\source\repos\DevCard\DevCard_Project\DevCard_MVC\bin\Debug\net5.0\DevCard_MVC.Views.pdb
-C:\Users\m.rabbi\source\repos\DevCard\DevCard_Project\DevCard_MVC\obj\Debug\net5.0\DevCard_MVC.csproj.AssemblyReference.cache
 C:\Users\m.rabbi\source\repos\DevCard\DevCard_Project\DevCard_MVC\obj\Debug\net5.0\DevCard_MVC.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\m.rabbi\source\repos\DevCard\DevCard_Project\DevCard_MVC\obj\Debug\net5.0\DevCard_MVC.AssemblyInfoInputs.cache
 C:\Users\m.rabbi\source\repos\DevCard\DevCard_Project\DevCard_MVC\obj\Debug\net5.0\DevCard_MVC.AssemblyInfo.cs
@@ -23,7 +22,6 @@ C:\Users\m.rabbi\source\repos\DevCard\DevCard_Project\DevCard_MVC\obj\Debug\net5
 C:\Users\m.rabbi\source\repos\DevCard\DevCard_Project\DevCard_MVC\obj\Debug\net5.0\DevCard_MVC.TagHelpers.output.cache
 C:\Users\m.rabbi\source\repos\DevCard\DevCard_Project\DevCard_MVC\obj\Debug\net5.0\DevCard_MVC.RazorCoreGenerate.cache
 C:\Users\m.rabbi\source\repos\DevCard\DevCard_Project\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\m.rabbi\source\repos\DevCard\DevCard_Project\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\m.rabbi\source\repos\DevCard\DevCard_Project\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\m.rabbi\source\repos\DevCard\DevCard_Project\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\m.rabbi\source\repos\DevCard\DevCard_Project\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -37,3 +35,4 @@ C:\Users\m.rabbi\source\repos\DevCard\DevCard_Project\DevCard_MVC\obj\Debug\net5
 C:\Users\m.rabbi\source\repos\DevCard\DevCard_Project\DevCard_MVC\obj\Debug\net5.0\DevCard_MVC.pdb
 C:\Users\m.rabbi\source\repos\DevCard\DevCard_Project\DevCard_MVC\obj\Debug\net5.0\DevCard_MVC.genruntimeconfig.cache
 C:\Users\m.rabbi\source\repos\DevCard\DevCard_Project\DevCard_MVC\obj\Debug\net5.0\DevCard_MVC.csproj.CopyComplete
+C:\Users\m.rabbi\source\repos\DevCard\DevCard_Project\DevCard_MVC\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
